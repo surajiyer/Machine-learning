@@ -1,0 +1,14 @@
+ Volume in drive D is DATA
+ Volume Serial Number is E28D-B675
+
+ Directory of D:\suraj\Dropbox\Eindhoven University of Technology\Masters\Year 1\Foundation of data mining\assignments
+
+14-06-2017  19:03    <DIR>          .
+14-06-2017  19:03    <DIR>          ..
+26-03-2017  13:21    <DIR>          2imw30-A1
+18-03-2017  17:34    <DIR>          2imw30-A2
+30-03-2017  03:43    <DIR>          2imw30-A3
+18-05-2017  11:59    <DIR>          2imw30-A4
+14-06-2017  19:03                 0 deleteme.txt
+               1 File(s)              0 bytes
+               6 Dir(s)  184,275,648,512 bytes free
