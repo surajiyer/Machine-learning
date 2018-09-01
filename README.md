@@ -1,5 +1,5 @@
 # Machine-learning
-This repository contains notebooks and other files associated with my class on Foundation of data mining (2016-17) from Eindhoven University of Technology.
+This repository contains notebooks and other files associated with my class on *Foundation of data mining (2016-17)* from Eindhoven University of Technology.
 
 - **Assignment 1**: Model selection, KNN, Logistic Regression, LinearSVC, Regularization, L1/L2 penalties, Stratified sampling, Bootstrapping, GridSearchCV, heatmap, AUC, RandomForest, Nested cross-validation, Decision tree
 
